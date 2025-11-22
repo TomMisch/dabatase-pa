@@ -1,0 +1,13 @@
+# Ignore all raw per-journal OpenAlex TSVs
+data_retrieval/files/raw_data/*_openalex.tsv
+
+# Ignore all Markdown documentation files (.md)
+*.md
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
