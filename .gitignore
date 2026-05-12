@@ -1,5 +1,6 @@
 # Ignore all raw per-journal OpenAlex TSVs
-data_retrieval/files/raw_data/*_openalex.tsv
+data_retrieval/files/raw_data/
+data_cleaning/files/step_1/
 
 # Ignore all Markdown documentation files (.md)
 *.md
